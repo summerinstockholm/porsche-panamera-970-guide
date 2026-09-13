@@ -26,6 +26,11 @@
 - Porsche maintenance checklist, Panamera / S / Turbo as of MY2011 — includes 30k/4yr spark plugs for Panamera/S, 20k/4yr Turbo, 90k/6yr PDK oil and PDCC reservoir:  
   https://files.porsche.com/filestore/download/china/en/intermediatemaintenancepanamera-s-turbo-asofmodelyear2011/default/09bf3ee8-224f-11e6-9225-0019999cd470/Intermediate-maintenance-Panamera-S-Turbo-%28as-of-model-year-2011%29.pdf
 
+- Porsche maintenance checklist, Panamera / S / GTS / Turbo / Diesel / S E-Hybrid as of MY2014 — PDK oil on applicable PDK variants: 90 тыс. км / 4 года:
+  https://files.porsche.com/filestore/download/china/en/maintenancepanamera-s-gts-turbo-diesel-se-hybrid-asofmodelyear2014/default/dc7d3864-2645-11e6-9225-0019999cd470/Maintenance-Panamera-S-GTS-Turbo-Diesel-S-E-Hybrid-%28as-of-model-year-2014%29.pdf
+- Porsche maintenance checklist, same family as of MY2015 — также показывает 90 тыс. км / 4 года:
+  https://files.porsche.com/filestore/download/china/en/maintenancepanamera-s-gts-turbo-diesel-se-hybrid-asofmodelyear2015/default/47935f46-2646-11e6-9225-0019999cd470/Maintenance-Panamera-S-GTS-Turbo-Diesel-S-E-Hybrid-%28as-of-model-year-2015%29.pdf
+
 ## Campaigns / technical bulletins
 
 - Porsche / NHTSA AH08 — fastening screws for camshaft controllers, certain 2010–2012 Panamera variants:  
