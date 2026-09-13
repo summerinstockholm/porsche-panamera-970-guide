@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Local rendered preview
+README_preview.html
